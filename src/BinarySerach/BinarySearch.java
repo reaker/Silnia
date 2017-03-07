@@ -2,6 +2,7 @@ package BinarySerach;
 
 import java.util.*;
 
+
 public class BinarySearch {
 
     public static int[] arr = new int[]{3,5,6,4,8,9,7,10,15,55};

@@ -5,7 +5,7 @@ package Recursion;
  */
 public class Recursion {
 
-    //Prosty programik z rekursją.
+    //Prosty programik z rekurencją.
     public static void main(String[] args) {
 
     recurence(10);
